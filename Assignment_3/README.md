@@ -4,6 +4,8 @@ Hi Year 10s
 
 This is the Final Assessment for your Web Dev Unit. 
 
+*This task is worth 55% of your mark*
+
 You may work alone or in pairs
 
 Task/Hei Mahi
