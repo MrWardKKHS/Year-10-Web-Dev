@@ -1,20 +1,20 @@
-# Assignment 2
+# Assignment 2 - HTML and CSS
 
-Hi Year 10s
+# 📚 Web Development Assignment 2 📚
 
-This is your 2nd assignment for web dev looking at HTML and CSS
+This is your second assignment for Web Development. Your task/Hei Mahi, consists of 5 parts, each of which is contained in a separate folder.
 
 *Combined this is worth 30% of your mark*
 
-Your task \ Hei Mahi
+⚠️ Please note: it is important that you read through the PowerPoint slides, watch the embedded video, and follow the directions for each part.
 
-Sign up for the [frontend masters bootcamp](https://frontendmasters.com/bootcamp/)
+📚 **You need to complete 5 parts**
+1. Book markup exercise
+2. Stylish exercise
+3. Link exercise
+4. Flex exercise 
+5. Grid exercise
 
-Follow along with the tutorial series up to 'CSS Tools & Exercises'
-**You don not need to complete all of the CSS videos**
+💻 Parts 2-5: Each of these parts will have a readme file with directions for the task, including a stylish exercise, a link exercise, a flex exercise, and a grid exercise. To view the readme file as intended, right-click and select "Preview in VSCode."
 
-**You need to complete 4 parts**
-1. index.html - your first website
-2. hobbies.html - The Ordered list exercise
-3. The book markup exercise 
-4. CSS added to learningcss.html
+🤔 To complete this assignment, you need to complete all 5 parts. Good luck!
